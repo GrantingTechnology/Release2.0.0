@@ -1,4 +1,4 @@
-# Release2.0.0
+# Release2.0.0 (Beta)
  Here is the release of version 2.0.0, go to www.grantingtechnology.org and see the documentation<br>
  New updates<br>
 * Organizational adjustment<br>
